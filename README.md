@@ -1,16 +1,128 @@
-## Hi there 👋
+# Dihia Kabeche
 
-<!--
-**kabechedihia20-ux/kabechedihia20-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+AI Student • Future AI Engineer • Building real-world intelligent systems
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-6A5ACD" />
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-OOP-ED8B00?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-API%20Development-black?logo=flask" />
+  <img src="https://img.shields.io/badge/MongoDB-Database-4EA94B?logo=mongodb&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I am an Artificial Intelligence student with a background in Computer Science and a strong interest in building practical and meaningful AI solutions.
+
+I enjoy learning new technologies, working on real-world projects, and understanding how intelligent systems can support healthcare, education, and decision-making.
+
+I am detail-oriented, curious, and constantly working on improving my technical and analytical skills. My long-term goal is to become an AI Engineer and contribute to impactful and ethical AI systems.
+
+---
+
+## Education
+
+* Bachelor’s degree in Computer Science
+* Specialization in Artificial Intelligence
+* International student in Canada
+
+---
+
+## Technical Interests
+
+* Machine Learning and AI systems
+* Data analysis and modeling
+* Natural Language Processing (NLP)
+* Ethics and data privacy in AI
+* Backend development and APIs
+
+---
+
+## Technical Skills
+
+### Languages & Tools
+
+* Python
+* Java
+* HTML / CSS / JavaScript
+* Flask
+* MongoDB
+* Cassandra
+* Git & GitHub
+
+### Concepts
+
+* Object-Oriented Programming (SOLID, inheritance, interfaces)
+* Data preprocessing and normalization
+* REST API development
+* Database design and queries
+* Model training and evaluation
+
+---
+
+## Projects
+
+### AI Capstone Project — Intelligent Triage Assistant
+
+* Contributed to the design of an AI system to help classify symptoms and guide users.
+* Worked on project definition, stakeholders, risks, and data governance.
+* Integrated ethical AI considerations and bias awareness.
+
+### Tic-Tac-Toe AI (Learning Model Concept)
+
+* Built a model capable of learning by playing against itself.
+* Explored training logic and improvement strategies.
+* Focused on understanding decision-making in AI systems.
+
+### Flask API Deployment
+
+* Developed and deployed an API using Flask.
+* Learned cloud deployment workflow and integration.
+* Tested endpoints and structured responses.
+
+### Car Inventory Web Application
+
+* Created a web interface using HTML, CSS, and JavaScript.
+* Implemented forms to edit vehicle information.
+* Focused on clean layout, alignment, and usability.
+
+### Data Analysis Projects
+
+* Worked with datasets using Python.
+* Cleaned, normalized, and prepared data.
+* Trained classification models and evaluated performance.
+
+### Database Practice (MongoDB & Cassandra)
+
+* Manipulated collections and queries.
+* Practiced optimization and structuring.
+* Worked with JSON datasets and database tools.
+
+---
+
+## Current Learning Focus
+
+* Advanced Machine Learning techniques
+* AI system design
+* Model training strategies
+* Data governance and responsible AI
+* Real-world AI project development
+
+---
+
+## Career Goals
+
+* Become an AI Engineer
+* Build intelligent systems that help people
+* Work on impactful AI projects in healthcare, education, or public services
+* Launch an IT / AI business in the future
+
+---
+
+## Personal Note
+
+Building intelligent systems that make a real impact.
