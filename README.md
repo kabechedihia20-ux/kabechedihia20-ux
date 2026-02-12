@@ -77,7 +77,7 @@ Development of an end-to-end machine learning system designed to analyze structu
 Several classification models were tested, including Logistic Regression, Decision Tree, and Random Forest, in order to learn patterns in transaction behavior. Model performance was evaluated using a train/test split and standard metrics to select the most reliable predictor.
 
 **Deployment**
-The selected model was integrated into a FastAPI to allow real-time predictions. The system accepts transaction inputs and returns a prediction, demonstrating a simple and practical deployment scenario.
+The selected model was integrated into a Node.js REST API to allow real-time predictions. The system accepts transaction inputs and returns a prediction, demonstrating a simple and practical deployment scenario.
 
 ---
 
