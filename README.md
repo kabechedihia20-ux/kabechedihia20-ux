@@ -71,7 +71,7 @@ I am detail-oriented, curious, and constantly working on improving my technical 
 🔗 Project repository: [https://github.com/kabechedihia20-ux/credit-card-transaction-prediction-api](https://github.com/kabechedihia20-ux/credit-card-transaction-prediction-api)
 
 **Objectives**
-Development of an end-to-end machine learning system designed to analyze structured transaction data and generate risk predictions through a Flask API, simulating a real-world financial fraud detection workflow.
+Development of an end-to-end machine learning system designed to analyze structured transaction data and generate risk predictions through a RESTful API, simulating a real-world financial fraud detection workflow.
 
 **Modeling**
 Several classification models were tested, including Logistic Regression, Decision Tree, and Random Forest, in order to learn patterns in transaction behavior. Model performance was evaluated using a train/test split and standard metrics to select the most reliable predictor.
