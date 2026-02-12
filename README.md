@@ -68,7 +68,7 @@ I am detail-oriented, curious, and constantly working on improving my technical 
 
 ### Credit Card Transaction Prediction API
 
-🔗 Project repository: [https://github.com/kabechedihia20-ux/credit-card-transaction-prediction-api](https://github.com/your-username/credit-card-transaction-prediction-api)
+🔗 Project repository: [https://github.com/kabechedihia20-ux/credit-card-transaction-prediction-api](https://github.com/kabechedihia20-ux/credit-card-transaction-prediction-api)
 
 **Objectives**
 Development of an end-to-end machine learning system designed to analyze structured transaction data and generate risk predictions through a Flask API, simulating a real-world financial fraud detection workflow.
